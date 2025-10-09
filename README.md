@@ -1,7 +1,9 @@
 # C++ for Finance — 2025 Project
 
-**Author(s): BAYRE Adrien | GRUEZ Maxime | JONDEAU Martin | KEREDAN Sacha | SOARES Lucas**
+**Author(s):** BAYRE Adrien | GRUEZ Maxime | JONDEAU Martin | KEREDAN Sacha | SOARES Lucas
+
 **Teacher:** PU Jiang
+
 **Deadline:** December 22, 2025, 11:00 AM
 
 ---
