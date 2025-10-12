@@ -4,8 +4,6 @@
 
 **Teacher:** PU Jiang
 
-**Deadline:** December 22, 2025, 11:00 AM
-
 ---
 
 ## 📘 Project Overview
