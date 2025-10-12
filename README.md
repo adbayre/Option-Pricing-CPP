@@ -1,6 +1,6 @@
 # C++ for Finance — Semester 7
 
-**Author(s):** BAYRE Adrien | GRUEZ Maxime | JONDEAU Martin | KEREDAN Sacha | SOARES Lucas
+**Authors:** BAYRE Adrien | GRUEZ Maxime | JONDEAU Martin | KEREDAN Sacha | SOARES Lucas
 
 **Teacher:** PU Jiang
 
