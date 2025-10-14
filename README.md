@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project implements a modular C++ framework for pricing financial derivatives under various models:
 
@@ -18,7 +18,7 @@ It emphasizes object-oriented design, numerical computation, and compliance with
 
 ---
 
-## 🧩 Architecture
+## Architecture
 
 The project is divided into **four main parts**, each corresponding to a section of the assignment:
 
@@ -103,7 +103,7 @@ The project is divided into **four main parts**, each corresponding to a section
 
 ---
 
-## ⚙️ Compilation
+## Compilation
 
 To compile all files:
 
@@ -116,7 +116,7 @@ Test programs are provided separately by the instructor.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 C++_Finance_Project/
@@ -141,30 +141,6 @@ C++_Finance_Project/
 
 ---
 
-## 🧪 Testing
-
-Use the provided **grading main() files** to test:
-
-* Analytical vs. Monte Carlo prices for European options
-* CRR vs. Black-Scholes convergence for large tree depth
-* Correct handling of early exercise for American options
-* Confidence intervals of MC estimates
-
----
-
-## ⚠️ Submission Rules
-
-* Archive: `.zip` file named after **team representative’s surname**
-* Content: **only `.cpp` and `.h` files** (no executables, no `main()`)
-* Size: ≤ 1MB
-* Send by email to your **TD teacher** with:
-
-  * Subject: `"C++ for Finance project 2025"`
-  * CC: all teammates
-  * Attach the zip file (no external hosting)
-
----
-
-## 🧾 License
+## License
 
 Educational use only — reproduction or redistribution without permission is prohibited.
